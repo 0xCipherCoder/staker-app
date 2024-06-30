@@ -1,4 +1,4 @@
-# 🚩 Challenge 1: 🔏 Decentralized Staking App
+# 🔏 Decentralized Staking App - Live - [Demo](https://staker-app.vercel.app/)
 
 🦸 Create a dApp where users can stake ETH and if a threshold is met, the funds are sent to a second contract, otherwise, users can withdraw.
 
